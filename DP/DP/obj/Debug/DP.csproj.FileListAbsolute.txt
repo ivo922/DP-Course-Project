@@ -1,0 +1,9 @@
+C:\Users\IVO\source\repos\DP\DP\bin\Debug\DP.exe.config
+C:\Users\IVO\source\repos\DP\DP\bin\Debug\DP.exe
+C:\Users\IVO\source\repos\DP\DP\bin\Debug\DP.pdb
+C:\Users\IVO\source\repos\DP\DP\obj\Debug\DP.csprojAssemblyReference.cache
+C:\Users\IVO\source\repos\DP\DP\obj\Debug\DP.exe
+C:\Users\IVO\source\repos\DP\DP\obj\Debug\DP.pdb
+C:\Users\IVO\source\repos\DP\DP\bin\Debug\BankRepository.dll
+C:\Users\IVO\source\repos\DP\DP\bin\Debug\BankRepository.pdb
+C:\Users\IVO\source\repos\DP\DP\obj\Debug\DP.csproj.CopyComplete

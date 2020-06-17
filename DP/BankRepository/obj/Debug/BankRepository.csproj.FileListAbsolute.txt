@@ -1,0 +1,5 @@
+C:\Users\IVO\source\repos\DP\BankRepository\bin\Debug\BankRepository.dll
+C:\Users\IVO\source\repos\DP\BankRepository\bin\Debug\BankRepository.pdb
+C:\Users\IVO\source\repos\DP\BankRepository\obj\Debug\BankRepository.csprojAssemblyReference.cache
+C:\Users\IVO\source\repos\DP\BankRepository\obj\Debug\BankRepository.dll
+C:\Users\IVO\source\repos\DP\BankRepository\obj\Debug\BankRepository.pdb
