@@ -51,7 +51,7 @@ namespace BankRepository
             }
             else
             {
-                int newBalance = customer.GetBalance() + value;
+                int newBalance = customer.GetBalance() - value;
                 customer.SetBalance(newBalance);
                 customer.Notify();
             }
